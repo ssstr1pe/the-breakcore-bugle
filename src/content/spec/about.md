@@ -1,9 +1,12 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
 
-::github{repo="saicaca/fuwari"}
+The Breakcore Bugle is a monthly blogpost/newsletter. On the last Friday of each month, we release a new edition, with the following categories:
+- Releases of the month (5)
+- Singles of the month (5)
+- Mix of the month (1)
+- Upcoming events
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+To submit entries for ANY of these categories, please email [thebreakcorebugle\@gmail.com](mailto:thebreakcorebugle\@gmail.com). Please put `[Release|Single|Mix|Event]` in the subject of your email.
+
+The Breakcore Bugle is run by [ssstr1pe](https://ssstr1pe.net).
+
