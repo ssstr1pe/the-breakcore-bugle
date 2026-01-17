@@ -17,6 +17,8 @@ In the first couple of years of SEHC existing, they've managed to have a very hi
 
 Let's get RIGHT into it!!!  
 
+![SEHC x TBB](./bugle-sehc.png)
+
 ### First of all! Serious congrats for being so young and running such a killer label. You guys are putting out some really hard shit, and consistently too - not an easy task at all! Anyway, please briefly introduce yourselves for the kind people at home.  
   
 nitroii: yo yo. my name is olti krasniqi, i’m 16, and i make music under the alias nitroii (and occasionally dj fire exit, although that alias is reserved for mixes). i’m a rg1 fella with albanian heritage (i rep fully) and i’ve been doing this for more or less 7 or 8 years. i started what you guys know as ‘south england hate club’ in summer 2023 when i was 14, and it got hard running it alone, so i pulled in marcus a few months in and now we’re on top of this shit. mad sounds spewing out everywhere, but i’m gonna leave that for later.  
