@@ -30,7 +30,7 @@ should be bugle-mexicancore.png
 
 // your answer here //
 
-### What's your favourite event you've put on so far, and who's the favourite person you've had play?
+### What's your favourite event you've put on so far and why?
 
 // your answer here //
   
@@ -38,11 +38,11 @@ should be bugle-mexicancore.png
 
 // your answer here //
   
-### What's the \*core scene like in Mexico?
+### Tell us all about the \*core scene like in Mexico, and the community you've built around Mexicancore?
 
 // your answer here //
 
-### What do breakcore/hardcore/etc events in Mexico have that everywhere else is missing? BOAST
+### What do breakcore/hardcore/etc events in Mexico have that everywhere else is missing? BOAST! Hehe
 
 // your answer here //
 
@@ -51,6 +51,10 @@ should be bugle-mexicancore.png
 // your answer here //
 
 ### You have the next compilation coming out in April - congratulations! Shout about it! Tell us all about it!!! Where can we find it and how can we support it?
+
+// your answer here //
+
+### Do you want to release EPs or LPs in the future or stick to compilations?
 
 // your answer here //
 
