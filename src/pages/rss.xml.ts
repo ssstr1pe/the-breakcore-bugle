@@ -33,7 +33,7 @@ export async function GET(context: APIContext) {
 				description: post.data.description || "",
 				link: url(`/posts/${post.slug}/`),
 				content: sanitizeHtml(parser.render(cleanedContent), {
-					allowedTags: sanitizeHtml.defaults.allowedTags.concat(["img"]),
+					allowedTags: sanitizeHtml.defaults.allowedTags.concat([]),
 				}),
 			};
 		}),
