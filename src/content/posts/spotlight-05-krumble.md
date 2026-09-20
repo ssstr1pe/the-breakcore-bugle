@@ -15,6 +15,14 @@ Go show Arcade Trauma some love. He's a legend for contributing once again, and 
 
 From this point on, it's all Mr Trauma!
 
+## Arcade Trauma's Krumble mix for The Breakcore Bugle
+
+You know what would be even better than reading this interview? Reading this interview whilst you listen to the SLAMMIN' ACCOMPANYING MIX FROM ARCADE TRAUMA!!!! BREAKCORE BUGLE EXCLUSIVE BAYBEE!!! 1 hour of ballz to the wallz Krumble - get after it.
+
+Here's the [SoundCloud link](https://soundcloud.com/the-breakcore-bugle/spotlight-04-arcade-trauma-x) if you'd rather listen directly on that platform.
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2404163436&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/the-breakcore-bugle" title="The Breakcore Bugle" target="_blank" style="color: #cccccc; text-decoration: none;">The Breakcore Bugle</a> · <a href="https://soundcloud.com/the-breakcore-bugle/spotlight-04-arcade-trauma-x" title="Spotlight 05 - Arcade Trauma x Krumble" target="_blank" style="color: #cccccc; text-decoration: none;">Spotlight 05 - Arcade Trauma x Krumble</a></div>
+
 # Interview with Krumble - Brought to you by Arcade Trauma
 
 Throughout the history of dance music, France has always been a key representative to an echelon of sounds. From hardcore with labels such as epileptik, all the way to the free party scene with legends such as Ben9mm, Suburbass, and the great Mat Weasel Busters. Breakcore of course, is no exception to this. France has had many, many great breakcore producers and Krumble is up there with the best, period.
