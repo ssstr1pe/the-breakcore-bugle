@@ -49,7 +49,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "/favicon/icon.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "The Breakcore Bugle",
-	bio: "Breakcore news from all corners of the flat & octagonal earth. One stop shop for new releases, mixes, and upcoming events",
+	bio: "Breakcore news from all corners of the flat & octagonal earth. One stop shop for all of the hottest and amazingest breakcore releases the world over...",
 	links: [
 		{
 			name: "instagram",
